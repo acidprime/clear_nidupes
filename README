@@ -1,0 +1,2 @@
+This script was used for the 10.4 user duplication bug.
+It searchs the local directory for duplicate ids and deletes them
